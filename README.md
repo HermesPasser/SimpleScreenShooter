@@ -1,0 +1,2 @@
+# SimpleScreenShooter
+Take screenshots
